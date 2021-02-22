@@ -4,7 +4,10 @@
 Mining Techniques](http://article.nadiapub.com/IJDTA/vol9_no12/3.pdf)
 내용:  
 한은행에서 가져온 기관(회사,농장,병원,미디어 그룹)(다수)과 개인(소수)의 대출 정보를 5개 부채 정보로 라벨링한 데이터 와
-거시경제 지표와 은행 
+거시경제 지표와 은행 변수 를 고려하여 머신러닝 적용
+
+결과:
+single classifier < multiple classifier fusion model( bagging < adaboost)
 
 [거시경제변수와 은행특성변수가
 부실채권비율에 미치는 영향 실증분석](http://www.kcgf.co.kr/jsp/common/htmldownload.jsp?fName=201606-2.pdf&fBid=cgm/2016)
